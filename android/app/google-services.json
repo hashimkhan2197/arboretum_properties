@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337334086009",
+    "project_id": "arboretum-17724",
+    "storage_bucket": "arboretum-17724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337334086009:android:7f06117136057f157e27a8",
+        "android_client_info": {
+          "package_name": "com.org.arboretumproperties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337334086009-1jptrg80lah5ubhr4n60h0sagclgilnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ImMQjAHEPcDPN6A98yhuCfObFRqKIyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337334086009-1jptrg80lah5ubhr4n60h0sagclgilnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
